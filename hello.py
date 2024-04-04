@@ -1,5 +1,5 @@
 //For command line git tutorial
-//Git Hub modification
+//GitHub modification
   
 
 print("hello world")
